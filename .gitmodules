@@ -1,3 +1,6 @@
 [submodule "wedding"]
 	path = wedding
 	url = https://github.com/breakstorm/wedding
+[submodule "css-font-example"]
+	path = css-font-example
+	url = https://github.com/breakstorm/css-font-example.git
